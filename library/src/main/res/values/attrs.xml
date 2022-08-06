@@ -1,0 +1,8 @@
+<resources>
+    <declare-styleable name="YoutubeLikeLayout_Layout">
+        <attr name="layout_topOnFullMode" format="boolean" />
+        <attr name="layout_bottomOnFullMode" format="boolean" />
+        <attr name="layout_startOnBarMode" format="boolean" />
+        <attr name="layout_endOnBarMode" format="boolean" />
+    </declare-styleable>
+</resources>
